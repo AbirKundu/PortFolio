@@ -18,7 +18,7 @@ body {
     line-height: 1.5;
     /* Add padding to the left to make room for navigation */
     padding-left: 170px; /* Adjust based on nav width */
-    padding-right: 35px;
+    padding-right: 30px;
 }
 
 /* Navigation */
@@ -40,7 +40,7 @@ nav {
     /* Add slight shadow to navigation bar */
     box-shadow: 2px 0 5px #df3c7d8b;
     /* Add rounded corners to navigation bar */
-    border-radius: 0 20px 30px 0;
+    border-radius: 0 50px 50px 0;
 }
 
 nav ul {
@@ -183,7 +183,7 @@ section ul li:hover {
 }
 
 #about{
-    text-align: center;
+    text-align: justify;
 }
 
 #contact {
