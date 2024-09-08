@@ -178,6 +178,17 @@ section ul li:hover {
     transform: translateY(-3px);
 }
 
+#blog{
+    text-align: justify;
+}
+
+#about{
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
 
 
 /* Smooth Scrolling */
