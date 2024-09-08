@@ -68,7 +68,7 @@ nav ul li a {
 
 nav ul li a:hover {
     /* Change text color to pink on hover */
-    color: #ff0066;
+    color: #ffff00;
     /* Add text shadow on hover */
     text-shadow: 2px 2px 5px rgba(232, 65, 132, 0.5);
 }
@@ -177,6 +177,8 @@ section ul li:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
 }
+
+
 
 /* Smooth Scrolling */
 html {
