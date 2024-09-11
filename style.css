@@ -7,10 +7,12 @@
 
 body {
     font-family: Arial, sans-serif;
+    font-size: larger;
     background-color: #ffe6f2;
     color: #333;
-    line-height: 1.5;
+    line-height: 1.6;
     padding-left: 170px; /* Adjust based on nav width */
+    padding-right: 30px;
 }
 
 
@@ -34,7 +36,7 @@ body {
 }
 
 .content p{
-    font-size: clamp(0.4rem , 0.2rem + 9vw, 1rem);
+    font-size: large;
     margin: 10px 0;
 }
 .typewriter,
@@ -81,7 +83,7 @@ nav ul li a:hover {
 
 /* Content Container */
 .content {
-    padding: 0px;
+    padding: 10px;
 }
 
 /* Header Section */
@@ -159,9 +161,25 @@ section ul li:hover {
 }
 
 /* Coloums Padding */
-#interests,Skills {
+#about{
+    text-align: justify;
+}
+
+#blog {
+    text-align: justify;
+}
+#interests {
     text-align: center;
     margin: 20px auto;
+}
+
+#skills {
+    text-align: center;
+    margin: 20px auto;
+}
+
+#contact{
+    text-align: center;
 }
 
 .columns {
@@ -264,8 +282,8 @@ html {
 /* Background Change Icon Styling */
 #bg-change-icon {
     position: fixed;
-    top: 20px;
-    left: 20px;
+    top: 60px;
+    left: 50px;
     background-color: #ff0066;
     padding: 15px;
     border-radius: 50%;
