@@ -1,13 +1,13 @@
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: # Replace with a single Polar username
-buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
-thanks_dev: # Replace with a single thanks.dev username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+github: [AbirKundu, user2, user3, user4] # Replace with your GitHub Sponsors-enabled username and up to 3 more
+patreon: abirkundu # Replace with your Patreon username
+open_collective: abirkundu # Replace with your Open Collective username
+ko_fi: abirkundu # Replace with your Ko-fi username
+tidelift: npm/abirkundu # Replace with your Tidelift platform/package name
+community_bridge: cloud-foundry # Replace with your Community Bridge project name
+liberapay: abirkundu # Replace with your Liberapay username
+issuehunt: abirkundu # Replace with your IssueHunt username
+lfx_crowdfunding: cloud-foundry # Replace with your LFX Crowdfunding project name
+polar: abirkundu # Replace with your Polar username
+buy_me_a_coffee: abirkundu # Replace with your Buy Me a Coffee username
+thanks_dev: abirkundu # Replace with your thanks.dev username
+custom: ['https://link1.com', 'https://link2.com'] # Replace with up to 4 custom sponsorship URLs
